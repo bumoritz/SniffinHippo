@@ -1,4 +1,4 @@
-# ![icon](https://user-images.githubusercontent.com/56551968/188260714-e0b5610f-0b37-4967-be03-75deb81eb3a0.png) SniffinHippo
+# ![icon](https://user-images.githubusercontent.com/56551968/188260714-e0b5610f-0b37-4967-be03-75deb81eb3a0.png height=30px) SniffinHippo
 Application for automated mouse behavioural training on olfactory tasks
 
 
