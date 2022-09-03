@@ -1,9 +1,9 @@
-# <img src="https://your-image-url.type](https://user-images.githubusercontent.com/56551968/188260714-e0b5610f-0b37-4967-be03-75deb81eb3a0.png" height="30"> SniffinHippo
-Application for automated mouse behavioural training on olfactory tasks
+# <img src="/Img/icon.png" height="30"> SniffinHippo
+Olfactometer control application for automated mouse behavioural training on olfactory tasks
 
 
 
-
+/Img/icon.png
 ## Description
 
 
@@ -18,9 +18,10 @@ Application for automated mouse behavioural training on olfactory tasks
 
 ## Manual mode
 
-
+<img src="/Img/SniffinHippo_Manual.png" height="100">
 
 
 ## PyBehaviour mode
 
+<img src="/Img/SniffinHippo_Manual.png" height="100">
 
